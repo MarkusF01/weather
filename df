@@ -1,0 +1,71 @@
+[33mcommit 8614bda9865a14d7ec022cf71f88378212d534b3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Markus Fehringer <2210859004@fh-burgenland.at>
+Date:   Thu Apr 6 12:43:40 2023 +0200
+
+    favicon added
+
+[33mcommit 2d80b0d5f5694e9be4deeab46284d09dbe78f509[m
+Author: Markus Fehringer <2210859004@fh-burgenland.at>
+Date:   Thu Apr 6 10:54:38 2023 +0200
+
+    trying to fix blank screen 3
+
+[33mcommit b7aecebbd388683fe9705efd3782233c96daa954[m
+Author: Markus Fehringer <2210859004@fh-burgenland.at>
+Date:   Thu Apr 6 10:49:43 2023 +0200
+
+    trying to fix blank screen 2
+
+[33mcommit 78db91a9de39fdf335935d4b8e2125f3f12e0255[m
+Author: Markus Fehringer <2210859004@fh-burgenland.at>
+Date:   Thu Apr 6 10:34:41 2023 +0200
+
+    trying to fix blank screen
+
+[33mcommit eadcb3f0be2252ec383d59c27137ea87d452dd52[m[33m ([m[1;31mweather/main[m[33m)[m
+Author: Markus Fehringer <2210859004@fh-burgenland.at>
+Date:   Wed Apr 5 17:20:34 2023 +0200
+
+    gh added1
+
+[33mcommit 6e22284e0758553bc6be2f0e6f61dc8b2e28fbc2[m
+Author: Markus Fehringer <2210859004@fh-burgenland.at>
+Date:   Wed Apr 5 17:15:23 2023 +0200
+
+    gh added2
+
+[33mcommit 9606288f4dcea026f1e22c582862def64e8acccb[m
+Author: Markus Fehringer <2210859004@fh-burgenland.at>
+Date:   Wed Apr 5 16:51:14 2023 +0200
+
+    gh added
+
+[33mcommit e5aa2e0a2a0d6806e86024b17bd8424b1df80d8b[m
+Author: Markus Fehringer <2210859004@fh-burgenland.at>
+Date:   Wed Apr 5 16:34:03 2023 +0200
+
+    first commit
+
+[33mcommit 7fcc3664dfbb2eff0b9ea537af5e84cbb64b5666[m
+Author: HasnatSN <hasnat.kontakt@gmail.com>
+Date:   Fri Mar 10 22:24:26 2023 +0100
+
+    card and remove button work now, refactoring for the code still needed
+
+[33mcommit 6fab8e2a5c50b8a9b24963e86a5e5a63b5caeaf3[m
+Author: HasnatSN <hasnat.kontakt@gmail.com>
+Date:   Thu Mar 9 17:36:38 2023 +0100
+
+    api call, v1 works now
+
+[33mcommit ad8543a8fedac9ae2d345d1fab2a8dcaaaec4111[m
+Author: HasnatSN <hasnat.kontakt@gmail.com>
+Date:   Thu Mar 9 11:29:28 2023 +0100
+
+    search bar + button works, not best approach
+
+[33mcommit 7673564b7a3c47d81a7286e487b25dbd9953e548[m
+Author: Markus Fehringer <2210859004@fh-burgenland.at>
+Date:   Tue Mar 7 14:31:59 2023 +0100
+
+    first commit

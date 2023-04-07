@@ -1,0 +1,179 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+    user-select: none;
+}
+
+body, html, .root {
+    height: 100%;
+    margin: 0;
+    color: black;
+    color: whitesmoke;
+}
+
+.normal-header {
+    font-size: 3rem;
+    text-align: center;
+    padding: 0.5vh;
+    background-color: #0F3460;
+}
+
+.down-header {
+    margin-top: 5rem;
+    font-size: 5rem;
+    text-align: center;
+}
+
+main {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-size: 120px 120px;
+}
+
+.App {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #16213E;
+}
+
+.card {
+    background-color: #0F3460;
+    border-radius: 7px;
+    margin: 7rem 1rem 1rem 1rem;
+    width: 30vh;
+    padding: 2vh;
+    height: 35vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    transition: transform 200ms;
+}
+
+.card:hover {
+    transform: scale(1.05)
+}
+
+#card-top-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: normal;
+    width: 100%;
+}
+
+
+#remove-btn {
+    background-color: #0F3460;
+    color: whitesmoke;
+    border-radius: 5px;
+    border-style: none;
+    padding: 5px;
+    font-size: 2.5vh;
+    margin: -10px -10px;
+}
+
+#remove-btn:hover {
+    background-color: #0F3460;
+    cursor: pointer;
+}
+
+.weather-card-wrapper {
+    background-color: none;
+    display: flex;
+    flex-direction: row;
+    height: 80%;
+    flex-wrap: wrap;
+}
+
+.search-bar {
+    border: 2px solid #0F3460;
+    width: 40vh;
+    border-radius: 10px;
+    padding: 2px;
+    background-color: #16213E;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5vh 1vh;
+    margin: 2vh;
+}
+
+.search-bar:hover {
+    background-color: #0F3460;
+}
+
+.city-input {
+    border: none;
+    color: whitesmoke;
+    border-radius: 5px;
+    background-color: inherit;
+    width: 100%;
+}
+.city-input::placeholder {
+    color: whitesmoke;
+}
+
+.city-input:focus {
+    outline: none;
+}
+
+.city-input:focus ~ .search-bar {
+    background-color: #0F3460;
+}
+
+#btn-search{
+    background-color: inherit;
+    color: whitesmoke;
+    border: none;
+    cursor: pointer;
+}
+
+#description {
+    width: 30vh;
+    text-align: justify;
+    margin: 2rem 0rem 1rem 0rem;
+}
+
+#city-name {
+    display: flex;
+    font-size: 1.75vh;
+
+}
+
+#card-temperature {
+    font-size: 8vh;
+    text-align: center;
+    font-weight: bold;
+    margin-top: -3vh;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+}
+
+#card-inner-wrapper {
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+    font-size: 1.5vh;
+    width: 100%;
+}
+
+#card-icon {
+    margin: 2vh 0vh 0vh 2vh;
+    font-size: 4vh;
+}
+
+footer {
+    background-color: #0F3460;
+    padding: 0.5vh;
+}
+
+#card-weather-condition {
+  text-align: center;
+  font-weight: bold;
+  transform: translateY(-2vh);
+  font-size: 1rem;
+  width: 100%;
+}
